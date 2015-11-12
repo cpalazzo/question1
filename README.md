@@ -1,5 +1,13 @@
 # question1
-Remove middle element of linked list
+Write a method that answers the following problem:
+
+Accept as input:
+
+·       list: a singly-linked list
+
+Remove the middle element of the list without iterating the list more than once.  Assume the list size cannot be known until traversed.
+
+Support your answer with tests.
 
 I assumed some additional requirements while coding this.  They are as follows:
 
